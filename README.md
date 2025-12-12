@@ -1,4 +1,5 @@
 # HR Management Analysis
+![HumanResources](Role-of-Data-Analytics-in-Human-Resource-Management.jpg)
 
 This repository contains the Power BI report for analyzing employee informations and their attrition rates. It includes various visualizations and analyses to understand the reasons behind employee departures and their distribution across departments, positions, and managers.
 
